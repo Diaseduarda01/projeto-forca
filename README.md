@@ -21,5 +21,5 @@
 <p align="center">Além de entreter, nosso jogo tem como objetivo promover a compreensão e a valorização da diversidade cultural, respeitando as crenças e tradições da Umbanda.</p>
 
 👉 Experimente Agora!
-<p align="center">Junte-se a nós nessa jornada de aprendizado e diversão! Experimente o Jogo da Forca Espiritual da Umbanda e compartilhe seus conhecimentos com amigos e familiares. Juntos, vamos explorar e apreciar a beleza desta rica herança espiritual! 💡</p>
+<p align="center">Junte-se a nós nessa jornada de aprendizado e diversão! Experimente o Jogo da Forca Espiritual da Umbanda aqui e compartilhe seus conhecimentos com amigos e familiares. Juntos, vamos explorar e apreciar a beleza desta rica herança espiritual! 💡 https://diaseduarda01.github.io/projeto-forca/</p>
 
